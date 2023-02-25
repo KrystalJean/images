@@ -1,0 +1,27 @@
+body {
+    width: 100vw;
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #eee;
+}
+
+.container {
+    /* width: 100%; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.image {
+    background-color: rgb(255, 255, 255);
+    height: 150px;
+    width: auto;
+    padding: 10px;
+    margin: 10px;
+}
